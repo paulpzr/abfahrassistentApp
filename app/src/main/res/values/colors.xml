@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryVariant">#212121</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="not_ok_red">#D32F2F</color>
+    <color name="ok_green">#43A047</color>
+    <color name="not_ok_red_transparent">#FFA5FFA6</color>
+    <color name="ok_green_transparent">#FFFF9191 </color>
+    </resources>
